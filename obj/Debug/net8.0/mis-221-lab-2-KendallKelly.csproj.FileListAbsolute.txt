@@ -1,0 +1,15 @@
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/bin/Debug/net8.0/mis-221-lab-2-KendallKelly
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/bin/Debug/net8.0/mis-221-lab-2-KendallKelly.deps.json
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/bin/Debug/net8.0/mis-221-lab-2-KendallKelly.runtimeconfig.json
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/bin/Debug/net8.0/mis-221-lab-2-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/bin/Debug/net8.0/mis-221-lab-2-KendallKelly.pdb
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.AssemblyInfoInputs.cache
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.AssemblyInfo.cs
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.csproj.CoreCompileInputs.cache
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.sourcelink.json
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/refint/mis-221-lab-2-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.pdb
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/mis-221-lab-2-KendallKelly.genruntimeconfig.cache
+/Users/kendall/Desktop/Repositories/221Labs/mis-221-lab-2-KendallKelly/obj/Debug/net8.0/ref/mis-221-lab-2-KendallKelly.dll
